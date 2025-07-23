@@ -57,7 +57,7 @@ const Index = () => {
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90 animate-fade-up">
             Estd. 1985 – A multispecialty and multidisciplinary dental clinic 
-            situated in the heart of Noida, NCR.
+            situated in the heart of Noida.
           </p>
           <Button asChild size="lg" className="shadow-button animate-scale-in">
             <Link to="/appointment">Book Your Appointment</Link>

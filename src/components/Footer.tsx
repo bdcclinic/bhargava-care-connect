@@ -14,7 +14,7 @@ const Footer = () => {
             </h3>
             <p className="text-sm opacity-90 mb-4">
               Estd. 1985 – A multispecialty and multidisciplinary dental clinic 
-              situated in the heart of Noida, NCR.
+              situated in the heart of Noida.
             </p>
             <div className="space-y-2 text-sm">
               <div className="flex items-start space-x-2">
@@ -45,7 +45,15 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Instagram size={16} />
-                <span>@bhargavadentalcare</span>
+                <a href="https://www.instagram.com/bhargavadentalcare/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
+                  @bhargavadentalcare
+                </a>
+              </div>
+              <div className="flex items-center space-x-2">
+                <span>📘</span>
+                <a href="https://www.facebook.com/bhargava70/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80">
+                  Facebook
+                </a>
               </div>
             </div>
           </div>

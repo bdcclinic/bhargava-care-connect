@@ -29,7 +29,7 @@ const Blog = () => {
       excerpt: 'Tips and strategies to help children overcome dental anxiety and make their visits to the dentist a positive experience.',
       date: '2024-01-10',
       author: 'Dr. Geetima Khanna',
-      image: 'https://images.unsplash.com/photo-1535268647677-300dbf3078d1?w=600&h=400&fit=crop',
+      image: '/src/assets/kids-dental-visit.jpg',
     },
     {
       id: 3,
@@ -56,7 +56,7 @@ const Blog = () => {
       excerpt: 'Explore modern cosmetic dental procedures that can give you the confident smile you\'ve always wanted.',
       date: '2023-12-28',
       author: 'Dr. Vikram Khanna',
-      image: 'https://images.unsplash.com/photo-1487053191772-9051e5edbbed?w=600&h=400&fit=crop',
+      image: '/src/assets/cosmetic-dentistry.jpg',
     },
     {
       id: 6,
